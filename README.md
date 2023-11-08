@@ -26,9 +26,9 @@ The app will scan the web pages and display a list of all the pages where it fou
 Explore the search results and find relevant information about the user.
 ## Screenshots
 
-![Preview]('img/preview.png')
+![Preview](img/preview.png)
 
-![Results]('img/results.png')
+![Results](img/results.png)
 
 Acknowledgments
 Sherlock Repo: [Sherlock Project](https://github.com/sherlock-project/sherlock)
