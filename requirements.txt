@@ -35,7 +35,7 @@ imutils==0.5.4
 ipykernel==6.1.0
 itsdangerous==2.0.1
 jedi==0.18.0
-Jinja2==3.0.1
+Jinja2==3.0.0
 jmespath==0.10.0
 joblib==1.2.0
 jsonschema==3.2.0
