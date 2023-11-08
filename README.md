@@ -1,6 +1,10 @@
 # Sherlock User Search App
 Welcome to the Sherlock User Search App! This Streamlit application utilizes the Sherlock library to search for user nicknames or usernames provided by the user across various websites. It scans a database of web pages and returns all the pages where it found matching usernames.
 
+## Try it
+
+[Sherlock Streamlit page](https://sherlock.streamlit.app/)
+
 ## Prerequisites
 Before you run the app, make sure you have the following prerequisites installed:
 
