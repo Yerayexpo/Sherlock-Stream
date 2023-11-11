@@ -23,11 +23,12 @@ To run the app, use the following command in your terminal or command prompt:
 ```python
 streamlit run app.py
 ```
-##How to Use the App
+## How to Use the App
 Enter the username or nickname you want to search for in the input field provided.
 Click on the "Search" button to initiate the search.
 The app will scan the web pages and display a list of all the pages where it found matching usernames/nicknames.
 Explore the search results and find relevant information about the user.
+
 ## Screenshots
 
 ![Preview](img/preview.png)
